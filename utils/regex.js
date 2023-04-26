@@ -1,0 +1,1 @@
+export const imgTagReg = /<img src=".*">/g
